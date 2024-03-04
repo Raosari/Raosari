@@ -1,4 +1,4 @@
-# Hi, I'm the new here
+# Hi, I'm the new one here... Not for too long
 
 ## About me:
 - 🔭 I’m mechatronic engineer, with experience in manufacturing systems and production lines as I live in a manufacturing city.
